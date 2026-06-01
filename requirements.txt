@@ -1,8 +1,5 @@
 streamlit
-tensorflow
+tensorflow-cpu
 numpy
-pandas
-matplotlib
-scikit-learn
-Pillow
+pillow
 h5py
